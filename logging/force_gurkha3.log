@@ -1,0 +1,10 @@
+root ERROR 2022-10-13 12:33:54,294 division by zero,
+Traceback (most recent call last):
+  File "C:\Users\SVKUSER\python_total_basics\logg3_method.py", line 17, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+root ERROR 2022-10-13 12:45:47,554 division by zero,
+Traceback (most recent call last):
+  File "C:\Users\SVKUSER\python_total_basics\logg3_method.py", line 18, in devide
+    div = a/b
+ZeroDivisionError: division by zero

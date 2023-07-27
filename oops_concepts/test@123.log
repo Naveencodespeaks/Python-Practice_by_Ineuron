@@ -1,0 +1,28 @@
+root  INFO 2022-10-17 10:13:03,086 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-17 10:13:03,126 <__main__.person object at 0x0000021D2EC2B460>
+root  INFO 2022-10-17 10:13:03,126 #________________inheritance_______________________
+root  INFO 2022-10-17 10:13:03,126 <__main__.employee object at 0x0000021D2EC2B3A0>
+root  INFO 2022-10-17 10:13:03,126 1991
+root  INFO 2022-10-17 10:13:03,126 1991
+root  INFO 2022-10-17 10:13:03,126 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:13:03,126 This is a private variable:  kumar
+root  INFO 2022-10-17 10:13:03,126 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:13:03,126 This is a private variable:  kumar
+root  INFO 2022-10-17 10:13:03,129 This is a private variable:  singh
+root  INFO 2022-10-17 10:13:03,129 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-17 10:13:03,129 Here the age is protected: 32
+root  INFO 2022-10-17 10:13:03,129 Here The age is private 32
+root  INFO 2022-10-17 10:13:56,593 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-17 10:13:56,623 <test.person object at 0x000001AB279A7CD0>
+root  INFO 2022-10-17 10:13:56,623 #________________inheritance_______________________
+root  INFO 2022-10-17 10:13:56,623 <test.employee object at 0x000001AB279A7C10>
+root  INFO 2022-10-17 10:13:56,623 1991
+root  INFO 2022-10-17 10:13:56,623 1991
+root  INFO 2022-10-17 10:13:56,623 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:13:56,623 This is a private variable:  kumar
+root  INFO 2022-10-17 10:13:56,623 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:13:56,623 This is a private variable:  kumar
+root  INFO 2022-10-17 10:13:56,624 This is a private variable:  singh
+root  INFO 2022-10-17 10:13:56,624 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-17 10:13:56,624 Here the age is protected: 32
+root  INFO 2022-10-17 10:13:56,624 Here The age is private 32

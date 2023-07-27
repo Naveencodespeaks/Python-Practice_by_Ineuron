@@ -1,0 +1,89 @@
+INFO root 2022-10-17 12:47:44,116, harekrishna
+INFO root 2022-10-17 13:01:34,779, <__main__.car object at 0x0000022CC1A97130>
+INFO root 2022-10-17 13:02:22,918, <__main__.car object at 0x0000017024C37130>
+INFO root 2022-10-17 13:03:00,407, <__main__.car object at 0x000001E86D4E7130>
+INFO root 2022-10-17 13:03:00,407, solid
+INFO root 2022-10-17 13:03:32,478, <__main__.car object at 0x0000028760517130>
+INFO root 2022-10-17 13:03:32,478, solid
+INFO root 2022-10-17 13:03:32,478, v6
+INFO root 2022-10-17 13:03:32,478, radial
+INFO root 2022-10-17 13:04:29,314, <__main__.car object at 0x00000200B9A57130>
+INFO root 2022-10-17 13:04:29,315, Here we are telling about body of a car solid
+INFO root 2022-10-17 13:04:29,315, v6
+INFO root 2022-10-17 13:04:29,315, radial
+INFO root 2022-10-17 13:04:38,968, <__main__.car object at 0x00000148E7017130>
+INFO root 2022-10-17 13:04:39,009, v6
+INFO root 2022-10-17 13:04:39,009, radial
+INFO root 2022-10-17 13:04:43,800, <__main__.car object at 0x000001AEAACE7130>
+INFO root 2022-10-17 13:04:43,801, Here we are telling about body of a car solid
+INFO root 2022-10-17 13:04:43,801, v6
+INFO root 2022-10-17 13:04:43,801, radial
+INFO root 2022-10-17 13:08:16,913, <__main__.car object at 0x000001AF8EE57130>
+INFO root 2022-10-17 13:08:16,913, Here we are telling about body of a car solid
+INFO root 2022-10-17 13:08:16,913, v6
+INFO root 2022-10-17 13:08:16,913, radial
+INFO root 2022-10-17 13:08:16,913, <__main__.tata object at 0x000001AF8EE56E60>
+INFO root 2022-10-17 13:09:01,375, <__main__.car object at 0x000001B28A5D7130>
+INFO root 2022-10-17 13:09:01,376, Here we are telling about body of a car solid
+INFO root 2022-10-17 13:09:01,376, v6
+INFO root 2022-10-17 13:09:01,376, radial
+INFO root 2022-10-17 13:09:01,377, <__main__.tata object at 0x000001B28A5D6E60>
+INFO root 2022-10-17 13:09:01,377, v8
+INFO root 2022-10-17 13:09:01,377, solid
+INFO root 2022-10-17 13:09:01,377, radial
+INFO root 2022-10-17 13:09:55,267, <__main__.car object at 0x000002018FEB7130>
+INFO root 2022-10-17 13:09:55,267, Here we are telling about body of a car solid
+INFO root 2022-10-17 13:09:55,268, v6
+INFO root 2022-10-17 13:09:55,268, radial
+INFO root 2022-10-17 13:09:55,268, <__main__.tata object at 0x000002018FEB6E60>
+INFO root 2022-10-17 13:09:55,268, v8
+INFO root 2022-10-17 13:09:55,268, ere we are telling about body of a car solid
+INFO root 2022-10-17 13:09:55,268, radial
+INFO root 2022-10-17 13:10:05,599, <__main__.car object at 0x000002C64B9A7130>
+INFO root 2022-10-17 13:10:05,599, Here we are telling about body of a car solid
+INFO root 2022-10-17 13:10:05,599, v6
+INFO root 2022-10-17 13:10:05,599, radial
+INFO root 2022-10-17 13:10:05,599, <__main__.tata object at 0x000002C64B9A6E60>
+INFO root 2022-10-17 13:10:05,599, v8
+INFO root 2022-10-17 13:10:05,599, ere we are telling about body of a car: solid
+INFO root 2022-10-17 13:10:05,599, radial
+INFO root 2022-10-17 13:11:54,566, <__main__.car object at 0x000001958A0B7130>
+INFO root 2022-10-17 13:11:54,566, Here we are telling about body of a car solid
+INFO root 2022-10-17 13:11:54,566, v6
+INFO root 2022-10-17 13:11:54,566, radial
+INFO root 2022-10-17 13:11:54,566, <__main__.tata object at 0x000001958A0B6E60>
+INFO root 2022-10-17 13:11:54,566, v8
+INFO root 2022-10-17 13:11:54,566, ere we are telling about body of a car: solid
+INFO root 2022-10-17 13:11:54,566, radial
+INFO root 2022-10-17 13:11:54,566, milage of this car
+INFO root 2022-10-17 13:11:54,566, None
+INFO root 2022-10-17 13:17:20,492, <__main__.car object at 0x0000018A869F70D0>
+INFO root 2022-10-17 13:17:20,492, Here we are telling about body of a car solid
+INFO root 2022-10-17 13:17:20,492, v6
+INFO root 2022-10-17 13:17:20,492, radial
+INFO root 2022-10-17 13:17:20,492, <__main__.tata object at 0x0000018A869F6E00>
+INFO root 2022-10-17 13:17:20,492, v8
+INFO root 2022-10-17 13:17:20,492, ere we are telling about body of a car: solid
+INFO root 2022-10-17 13:17:20,492, radial
+INFO root 2022-10-17 13:17:20,493, milage of this car
+INFO root 2022-10-17 13:17:20,493, None
+INFO root 2022-10-17 13:18:24,801, <__main__.car object at 0x000002327F2B70D0>
+INFO root 2022-10-17 13:18:24,802, Here we are telling about body of a car solid
+INFO root 2022-10-17 13:18:24,802, v6
+INFO root 2022-10-17 13:18:24,802, radial
+INFO root 2022-10-17 13:18:24,802, <__main__.tata object at 0x000002327F2B6E00>
+INFO root 2022-10-17 13:18:24,802, v8
+INFO root 2022-10-17 13:18:24,802, ere we are telling about body of a car: solid
+INFO root 2022-10-17 13:18:24,802, radial
+INFO root 2022-10-17 13:18:24,802, milage of this car
+INFO root 2022-10-17 13:18:24,802, None
+INFO root 2022-10-17 14:54:24,070, <__main__.car object at 0x000002742F0370D0>
+INFO root 2022-10-17 14:54:24,081, Here we are telling about body of a car solid
+INFO root 2022-10-17 14:54:24,081, v6
+INFO root 2022-10-17 14:54:24,081, radial
+INFO root 2022-10-17 14:54:24,081, <__main__.tata object at 0x000002742F036E00>
+INFO root 2022-10-17 14:54:24,081, v8
+INFO root 2022-10-17 14:54:24,081, Here we are telling about body of a car: solid
+INFO root 2022-10-17 14:54:24,081, radial
+INFO root 2022-10-17 14:54:24,081, milage of this car
+INFO root 2022-10-17 14:54:24,081, None

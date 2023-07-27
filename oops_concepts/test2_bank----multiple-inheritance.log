@@ -1,0 +1,36 @@
+INFO root 2022-10-17 13:43:58,706, This will show you all the transaction happend to icici throught hdfc
+INFO root 2022-10-17 13:43:58,708, Total  transaction value
+INFO root 2022-10-17 13:43:58,708, This will showing  you  your account open status
+INFO root 2022-10-17 13:43:58,708, This will show your deposited amount
+INFO root 2022-10-17 13:51:03,321, This will show you all the transaction happend to icici throught hdfc
+INFO root 2022-10-17 13:51:03,322, Total  transaction value
+INFO root 2022-10-17 13:51:03,322, This will showing  you  your account open status
+INFO root 2022-10-17 13:51:03,322, This will show your deposited amount
+INFO root 2022-10-17 13:51:21,458, This will show you all the transaction happend to icici throught hdfc
+INFO root 2022-10-17 13:51:21,459, Total  transaction value
+INFO root 2022-10-17 13:51:21,459, This will showing  you  your account open status
+INFO root 2022-10-17 13:51:21,459, This will show your deposited amount
+INFO root 2022-10-17 13:51:21,459, This is a test method from bank class
+INFO root 2022-10-17 13:52:34,503, This will show you all the transaction happend to icici throught hdfc
+INFO root 2022-10-17 13:52:34,503, Total  transaction value
+INFO root 2022-10-17 13:52:34,503, This will showing  you  your account open status
+INFO root 2022-10-17 13:52:34,503, This will show your deposited amount
+INFO root 2022-10-17 13:52:34,503, This is a test from HDFC Bank
+INFO root 2022-10-17 13:59:30,006, This will show you all the transaction happend to icici throught hdfc
+INFO root 2022-10-17 13:59:30,006, Total  transaction value
+INFO root 2022-10-17 13:59:30,006, This will showing  you  your account open status
+INFO root 2022-10-17 13:59:30,006, This will show your deposited amount
+INFO root 2022-10-17 13:59:30,006, This is a test from HDFC Bank
+INFO root 2022-10-17 13:59:30,006, Print a account ststus in icici
+INFO root 2022-10-17 14:00:32,338, This will show you all the transaction happend to icici throught hdfc
+INFO root 2022-10-17 14:00:32,338, Total  transaction value
+INFO root 2022-10-17 14:00:32,338, This will showing  you  your account open status
+INFO root 2022-10-17 14:00:32,338, This will show your deposited amount
+INFO root 2022-10-17 14:00:32,338, This is a test from HDFC Bank
+INFO root 2022-10-17 14:00:32,338, This message is coming from ineuron_bank : Print a account ststus in icici 
+INFO root 2022-10-17 14:00:58,130, This will show you all the transaction happend to icici throught hdfc
+INFO root 2022-10-17 14:00:58,131, Total  transaction value
+INFO root 2022-10-17 14:00:58,131, This will showing  you  your account open status
+INFO root 2022-10-17 14:00:58,131, This will show your deposited amount
+INFO root 2022-10-17 14:00:58,131, This is a test from HDFC Bank
+INFO root 2022-10-17 14:00:58,131, This message is coming from ineuron_bank class: Print a account ststus in icici 

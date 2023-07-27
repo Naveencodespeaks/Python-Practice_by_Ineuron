@@ -1,0 +1,8 @@
+INFO 2022-10-13 12:58:00,770 root  I am trying to read a file
+INFO 2022-10-13 12:58:00,771 root  This is a situation for us
+ERROR 2022-10-13 12:58:00,771 root  [Errno 2] No such file or directory: 'Royal Enfield_Himalaya.txt'
+ERROR 2022-10-13 12:58:00,771 root  [Errno 2] No such file or directory: 'Royal Enfield_Himalaya.txt'
+Traceback (most recent call last):
+  File "C:\Users\SVKUSER\python_total_basics\logg4_method.py", line 6, in <module>
+    with open("Royal Enfield_Himalaya.txt", 'r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'Royal Enfield_Himalaya.txt'

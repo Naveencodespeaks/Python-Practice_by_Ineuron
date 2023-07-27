@@ -1,0 +1,628 @@
+root  INFO 2022-10-15 12:48:08,445 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 12:48:08,445 <__main__.person object at 0x00000286F1817160>
+root  INFO 2022-10-15 12:54:39,250 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 12:54:39,251 <__main__.person object at 0x000001F58EC47160>
+root  INFO 2022-10-15 12:56:19,057 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 12:56:19,057 <__main__.person object at 0x0000028952D771C0>
+root  INFO 2022-10-15 12:56:19,058 #________________inheritance_______________________
+root  INFO 2022-10-15 12:58:14,284 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 12:58:14,285 <__main__.person object at 0x000001F3A23B71C0>
+root  INFO 2022-10-15 12:58:14,285 #________________inheritance_______________________
+root  INFO 2022-10-15 12:58:14,285 <__main__.employee object at 0x000001F3A23B7100>
+root  INFO 2022-10-15 12:59:10,106 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 12:59:10,106 <__main__.person object at 0x0000021803A671C0>
+root  INFO 2022-10-15 12:59:10,106 #________________inheritance_______________________
+root  INFO 2022-10-15 12:59:10,106 <__main__.employee object at 0x0000021803A67100>
+root  INFO 2022-10-15 12:59:10,106 1990
+root  INFO 2022-10-15 13:03:04,603 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:03:04,604 <__main__.person object at 0x000001D2423871C0>
+root  INFO 2022-10-15 13:03:04,604 #________________inheritance_______________________
+root  INFO 2022-10-15 13:03:04,604 <__main__.employee object at 0x000001D242387100>
+root  INFO 2022-10-15 13:03:04,604 1990
+root  INFO 2022-10-15 13:03:04,605 sudh
+root  INFO 2022-10-15 13:03:42,734 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:03:42,734 <__main__.person object at 0x000001AA46DB71C0>
+root  INFO 2022-10-15 13:03:42,735 #________________inheritance_______________________
+root  INFO 2022-10-15 13:03:42,735 <__main__.employee object at 0x000001AA46DB7100>
+root  INFO 2022-10-15 13:03:42,735 1990
+root  INFO 2022-10-15 13:03:42,735 sudh
+root  INFO 2022-10-15 13:03:42,735 kumar
+root  INFO 2022-10-15 13:04:16,912 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:04:16,912 <__main__.person object at 0x00000135AEFA71C0>
+root  INFO 2022-10-15 13:04:16,913 #________________inheritance_______________________
+root  INFO 2022-10-15 13:04:16,913 <__main__.employee object at 0x00000135AEFA7100>
+root  INFO 2022-10-15 13:04:16,913 1990
+root  INFO 2022-10-15 13:04:16,913 1990
+root  INFO 2022-10-15 13:04:16,913 sudh
+root  INFO 2022-10-15 13:04:16,913 kumar
+root  INFO 2022-10-15 13:05:07,347 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:05:07,347 <__main__.person object at 0x00000176F87E71C0>
+root  INFO 2022-10-15 13:05:07,347 #________________inheritance_______________________
+root  INFO 2022-10-15 13:05:07,347 <__main__.employee object at 0x00000176F87E7100>
+root  INFO 2022-10-15 13:05:07,347 1990
+root  INFO 2022-10-15 13:05:07,347 1990
+root  INFO 2022-10-15 13:05:07,347 This is a private variablesudh
+root  INFO 2022-10-15 13:05:07,347 This is a private variablekumar
+root  INFO 2022-10-15 13:05:21,784 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:05:21,784 <__main__.person object at 0x000001D820A171C0>
+root  INFO 2022-10-15 13:05:21,784 #________________inheritance_______________________
+root  INFO 2022-10-15 13:05:21,784 <__main__.employee object at 0x000001D820A17100>
+root  INFO 2022-10-15 13:05:21,787 1990
+root  INFO 2022-10-15 13:05:21,788 1990
+root  INFO 2022-10-15 13:05:21,788 This is a private variable: sudh
+root  INFO 2022-10-15 13:05:21,788 This is a private variable: kumar
+root  INFO 2022-10-15 13:08:28,536 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:08:28,536 <__main__.person object at 0x0000024486A171F0>
+root  INFO 2022-10-15 13:08:28,536 #________________inheritance_______________________
+root  INFO 2022-10-15 13:08:28,536 <__main__.employee object at 0x0000024486A17130>
+root  INFO 2022-10-15 13:08:28,536 1991
+root  INFO 2022-10-15 13:08:28,536 1991
+root  INFO 2022-10-15 13:08:28,536 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:08:28,536 This is a private variable: kumar
+root  INFO 2022-10-15 13:08:28,536 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:08:28,536 This is a private variable: kumar
+root  INFO 2022-10-15 13:09:29,154 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:09:29,154 <__main__.person object at 0x000001CF396071F0>
+root  INFO 2022-10-15 13:09:29,155 #________________inheritance_______________________
+root  INFO 2022-10-15 13:09:29,155 <__main__.employee object at 0x000001CF39607130>
+root  INFO 2022-10-15 13:09:29,155 1991
+root  INFO 2022-10-15 13:09:29,155 1991
+root  INFO 2022-10-15 13:09:29,155 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:09:29,155 This is a private variable: kumar
+root  INFO 2022-10-15 13:09:29,155 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:09:29,155 This is a private variable: kumar
+root  INFO 2022-10-15 13:10:08,096 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:10:08,096 <__main__.person object at 0x00000249369171F0>
+root  INFO 2022-10-15 13:10:08,096 #________________inheritance_______________________
+root  INFO 2022-10-15 13:10:08,096 <__main__.employee object at 0x0000024936917130>
+root  INFO 2022-10-15 13:10:08,096 1991
+root  INFO 2022-10-15 13:10:08,096 1991
+root  INFO 2022-10-15 13:10:08,096 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:10:08,097 This is a private variable: kumar
+root  INFO 2022-10-15 13:10:08,097 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:10:08,097 This is a private variable: kumar
+root  INFO 2022-10-15 13:10:08,097 This is a private variable: singh
+root  INFO 2022-10-15 13:16:51,255 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:16:51,255 <__main__.person object at 0x0000022CD92A71F0>
+root  INFO 2022-10-15 13:16:51,255 #________________inheritance_______________________
+root  INFO 2022-10-15 13:16:51,255 <__main__.employee object at 0x0000022CD92A7130>
+root  INFO 2022-10-15 13:16:51,255 1991
+root  INFO 2022-10-15 13:16:51,255 1991
+root  INFO 2022-10-15 13:16:51,255 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:16:51,256 This is a private variable: kumar
+root  INFO 2022-10-15 13:16:51,256 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:16:51,256 This is a private variable: kumar
+root  INFO 2022-10-15 13:16:51,256 This is a private variable: singh
+root  INFO 2022-10-15 13:16:51,256 32
+root  INFO 2022-10-15 13:18:45,643 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:18:45,643 <__main__.person object at 0x000002408CC4B460>
+root  INFO 2022-10-15 13:18:45,643 #________________inheritance_______________________
+root  INFO 2022-10-15 13:18:45,643 <__main__.employee object at 0x000002408CC4B3A0>
+root  INFO 2022-10-15 13:18:45,643 1991
+root  INFO 2022-10-15 13:18:45,643 1991
+root  INFO 2022-10-15 13:18:45,644 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:18:45,644 This is a private variable: kumar
+root  INFO 2022-10-15 13:18:45,690 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:18:45,691 This is a private variable: kumar
+root  INFO 2022-10-15 13:18:45,691 This is a private variable: singh
+root  INFO 2022-10-15 13:19:17,544 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:19:17,544 <__main__.person object at 0x000002B66C79B460>
+root  INFO 2022-10-15 13:19:17,544 #________________inheritance_______________________
+root  INFO 2022-10-15 13:19:17,544 <__main__.employee object at 0x000002B66C79B3A0>
+root  INFO 2022-10-15 13:19:17,544 1991
+root  INFO 2022-10-15 13:19:17,544 1991
+root  INFO 2022-10-15 13:19:17,545 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:19:17,545 This is a private variable: kumar
+root  INFO 2022-10-15 13:19:17,545 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:19:17,545 This is a private variable: kumar
+root  INFO 2022-10-15 13:19:17,545 This is a private variable: singh
+root  INFO 2022-10-15 13:21:01,463 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:21:01,463 <__main__.person object at 0x0000018BC300B460>
+root  INFO 2022-10-15 13:21:01,463 #________________inheritance_______________________
+root  INFO 2022-10-15 13:21:01,463 <__main__.employee object at 0x0000018BC300B3A0>
+root  INFO 2022-10-15 13:21:01,463 1991
+root  INFO 2022-10-15 13:21:01,463 1991
+root  INFO 2022-10-15 13:21:01,463 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:21:01,464 This is a private variable: kumar
+root  INFO 2022-10-15 13:21:01,464 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:21:01,464 This is a private variable: kumar
+root  INFO 2022-10-15 13:21:01,464 This is a private variable: singh
+root  INFO 2022-10-15 13:21:01,464 Here the age is protected: 32
+root  INFO 2022-10-15 13:21:16,679 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:21:16,680 <__main__.person object at 0x0000020D9F4CB460>
+root  INFO 2022-10-15 13:21:16,680 #________________inheritance_______________________
+root  INFO 2022-10-15 13:21:16,680 <__main__.employee object at 0x0000020D9F4CB3A0>
+root  INFO 2022-10-15 13:21:16,680 1991
+root  INFO 2022-10-15 13:21:16,680 1991
+root  INFO 2022-10-15 13:21:16,680 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:21:16,680 This is a private variable: kumar
+root  INFO 2022-10-15 13:21:16,680 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:21:16,680 This is a private variable: kumar
+root  INFO 2022-10-15 13:21:16,680 This is a private variable: singh
+root  INFO 2022-10-15 13:21:16,680 Here the age is protected: 32
+root  INFO 2022-10-15 13:21:25,447 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 13:21:25,447 <__main__.person object at 0x000001D7223EB460>
+root  INFO 2022-10-15 13:21:25,447 #________________inheritance_______________________
+root  INFO 2022-10-15 13:21:25,447 <__main__.employee object at 0x000001D7223EB3A0>
+root  INFO 2022-10-15 13:21:25,447 1991
+root  INFO 2022-10-15 13:21:25,447 1991
+root  INFO 2022-10-15 13:21:25,448 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:21:25,448 This is a private variable: kumar
+root  INFO 2022-10-15 13:21:25,448 This is a private variable: sudhanshu
+root  INFO 2022-10-15 13:21:25,448 This is a private variable: kumar
+root  INFO 2022-10-15 13:21:25,448 This is a private variable: singh
+root  INFO 2022-10-15 13:21:25,448 Here the age is protected: 32
+root  INFO 2022-10-15 13:21:25,448 Here The age is private 32
+root  INFO 2022-10-15 14:48:57,912 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 14:48:57,917 <__main__.person object at 0x000001E9B382B460>
+root  INFO 2022-10-15 14:48:57,918 #________________inheritance_______________________
+root  INFO 2022-10-15 14:48:57,918 <__main__.employee object at 0x000001E9B382B3A0>
+root  INFO 2022-10-15 14:48:57,918 1991
+root  INFO 2022-10-15 14:48:57,918 1991
+root  INFO 2022-10-15 14:48:57,918 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:48:57,918 This is a private variable:  kumar
+root  INFO 2022-10-15 14:48:57,918 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:48:57,918 This is a private variable:  kumar
+root  INFO 2022-10-15 14:48:57,918 This is a private variable:  singh
+root  INFO 2022-10-15 14:48:57,918 Here the age is protected: 32
+root  INFO 2022-10-15 14:48:57,918 Here The age is private 32
+root  INFO 2022-10-15 14:50:30,438 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 14:50:30,438 <__main__.person object at 0x000002908D3CB460>
+root  INFO 2022-10-15 14:50:30,438 #________________inheritance_______________________
+root  INFO 2022-10-15 14:50:30,720 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 14:50:30,720 <__main__.person object at 0x000001C1EC50B460>
+root  INFO 2022-10-15 14:50:30,720 #________________inheritance_______________________
+root  INFO 2022-10-15 14:50:56,403 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 14:50:56,403 <__main__.person object at 0x0000016D4D7CB460>
+root  INFO 2022-10-15 14:50:56,404 #________________inheritance_______________________
+root  INFO 2022-10-15 14:52:15,692 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 14:52:15,693 <__main__.person object at 0x00000285AE53B460>
+root  INFO 2022-10-15 14:52:15,693 #________________inheritance_______________________
+root  INFO 2022-10-15 14:52:15,693 <__main__.employee object at 0x00000285AE53B3A0>
+root  INFO 2022-10-15 14:52:15,693 1991
+root  INFO 2022-10-15 14:52:15,693 1991
+root  INFO 2022-10-15 14:52:15,693 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:52:15,693 This is a private variable:  kumar
+root  INFO 2022-10-15 14:52:15,694 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:52:15,694 This is a private variable:  kumar
+root  INFO 2022-10-15 14:52:15,694 This is a private variable:  singh
+root  INFO 2022-10-15 14:52:15,694 Here the age is protected: 32
+root  INFO 2022-10-15 14:52:15,694 Here The age is private 32
+root  INFO 2022-10-15 14:52:15,694 9
+root  INFO 2022-10-15 14:52:15,694 <__main__.employee object at 0x00000285AE53B460>
+root  INFO 2022-10-15 14:52:15,694 1991
+root  INFO 2022-10-15 14:52:15,694 1991
+root  INFO 2022-10-15 14:52:15,694 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:52:15,694 This is a private variable:  kumar
+root  INFO 2022-10-15 14:52:15,695 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:52:15,695 This is a private variable:  kumar
+root  INFO 2022-10-15 14:52:15,695 This is a private variable:  singh
+root  INFO 2022-10-15 14:52:53,814 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 14:52:53,814 <__main__.person object at 0x0000022688AAB460>
+root  INFO 2022-10-15 14:52:53,814 #________________inheritance_______________________
+root  INFO 2022-10-15 14:52:53,814 <__main__.employee object at 0x0000022688AAB3A0>
+root  INFO 2022-10-15 14:52:53,814 1991
+root  INFO 2022-10-15 14:52:53,814 1991
+root  INFO 2022-10-15 14:52:53,814 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:52:53,814 This is a private variable:  kumar
+root  INFO 2022-10-15 14:52:53,815 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:52:53,815 This is a private variable:  kumar
+root  INFO 2022-10-15 14:52:53,815 This is a private variable:  singh
+root  INFO 2022-10-15 14:52:53,815 Here the age is protected: 32
+root  INFO 2022-10-15 14:52:53,815 Here The age is private 32
+root  INFO 2022-10-15 14:52:53,815 9
+root  INFO 2022-10-15 14:52:53,815 <__main__.employee object at 0x0000022688AAB460>
+root  INFO 2022-10-15 14:52:53,815 1991
+root  INFO 2022-10-15 14:52:53,815 1991
+root  INFO 2022-10-15 14:52:53,815 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:52:53,815 This is a private variable:  kumar
+root  INFO 2022-10-15 14:52:53,815 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:52:53,815 This is a private variable:  kumar
+root  INFO 2022-10-15 14:52:53,815 This is a private variable:  singh
+root  INFO 2022-10-15 14:53:06,573 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 14:53:06,573 <__main__.person object at 0x0000021D14A4B460>
+root  INFO 2022-10-15 14:53:06,573 #________________inheritance_______________________
+root  INFO 2022-10-15 14:53:06,573 <__main__.employee object at 0x0000021D14A4B3A0>
+root  INFO 2022-10-15 14:53:06,574 1991
+root  INFO 2022-10-15 14:53:06,574 1991
+root  INFO 2022-10-15 14:53:06,574 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:53:06,574 This is a private variable:  kumar
+root  INFO 2022-10-15 14:53:06,574 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:53:06,574 This is a private variable:  kumar
+root  INFO 2022-10-15 14:53:06,574 This is a private variable:  singh
+root  INFO 2022-10-15 14:53:06,574 Here the age is protected: 32
+root  INFO 2022-10-15 14:53:06,574 Here The age is private 32
+root  INFO 2022-10-15 14:53:06,574 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-15 14:53:06,574 9
+root  INFO 2022-10-15 14:53:06,574 <__main__.employee object at 0x0000021D14A4B460>
+root  INFO 2022-10-15 14:53:06,575 1991
+root  INFO 2022-10-15 14:53:06,575 1991
+root  INFO 2022-10-15 14:53:06,575 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:53:06,575 This is a private variable:  kumar
+root  INFO 2022-10-15 14:53:06,575 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:53:06,575 This is a private variable:  kumar
+root  INFO 2022-10-15 14:53:06,575 This is a private variable:  singh
+root  INFO 2022-10-15 14:55:12,274 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 14:55:12,274 <__main__.person object at 0x000001D42027B460>
+root  INFO 2022-10-15 14:55:12,274 #________________inheritance_______________________
+root  INFO 2022-10-15 14:55:12,275 <__main__.employee object at 0x000001D42027B3A0>
+root  INFO 2022-10-15 14:55:12,275 1991
+root  INFO 2022-10-15 14:55:12,275 1991
+root  INFO 2022-10-15 14:55:12,275 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:55:12,275 This is a private variable:  kumar
+root  INFO 2022-10-15 14:55:12,275 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:55:12,275 This is a private variable:  kumar
+root  INFO 2022-10-15 14:55:12,275 This is a private variable:  singh
+root  INFO 2022-10-15 14:55:12,275 Here we are using functions as a object notations
+root  INFO 2022-10-15 14:55:12,275 Here the age is protected: 32
+root  INFO 2022-10-15 14:55:12,275 Here The age is private 32
+root  INFO 2022-10-15 14:55:12,275 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-15 14:55:12,275 9
+root  INFO 2022-10-15 14:55:12,275 <__main__.employee object at 0x000001D42027B460>
+root  INFO 2022-10-15 14:55:12,275 1991
+root  INFO 2022-10-15 14:55:12,276 1991
+root  INFO 2022-10-15 14:55:12,276 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:55:12,276 This is a private variable:  kumar
+root  INFO 2022-10-15 14:55:12,276 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:55:12,276 This is a private variable:  kumar
+root  INFO 2022-10-15 14:55:12,276 This is a private variable:  singh
+root  INFO 2022-10-15 14:55:41,453 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 14:55:41,453 <__main__.person object at 0x000001F2C2E9B460>
+root  INFO 2022-10-15 14:55:41,453 #________________inheritance_______________________
+root  INFO 2022-10-15 14:55:41,453 <__main__.employee object at 0x000001F2C2E9B3A0>
+root  INFO 2022-10-15 14:55:41,453 1991
+root  INFO 2022-10-15 14:55:41,453 1991
+root  INFO 2022-10-15 14:55:41,454 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:55:41,454 This is a private variable:  kumar
+root  INFO 2022-10-15 14:55:41,454 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:55:41,454 This is a private variable:  kumar
+root  INFO 2022-10-15 14:55:41,454 This is a private variable:  singh
+root  INFO 2022-10-15 14:55:41,454 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-15 14:55:41,454 Here the age is protected: 32
+root  INFO 2022-10-15 14:55:41,454 Here The age is private 32
+root  INFO 2022-10-15 14:55:41,454 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-15 14:55:41,454 9
+root  INFO 2022-10-15 14:55:41,454 <__main__.employee object at 0x000001F2C2E9B460>
+root  INFO 2022-10-15 14:55:41,454 1991
+root  INFO 2022-10-15 14:55:41,454 1991
+root  INFO 2022-10-15 14:55:41,454 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:55:41,455 This is a private variable:  kumar
+root  INFO 2022-10-15 14:55:41,455 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:55:41,455 This is a private variable:  kumar
+root  INFO 2022-10-15 14:55:41,455 This is a private variable:  singh
+root  INFO 2022-10-15 14:57:02,052 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 14:57:02,053 <__main__.person object at 0x0000021A53E9B460>
+root  INFO 2022-10-15 14:57:02,053 #________________inheritance_______________________
+root  INFO 2022-10-15 14:57:02,053 <__main__.employee object at 0x0000021A53E9B3A0>
+root  INFO 2022-10-15 14:57:02,053 1991
+root  INFO 2022-10-15 14:57:02,053 1991
+root  INFO 2022-10-15 14:57:02,053 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:57:02,054 This is a private variable:  kumar
+root  INFO 2022-10-15 14:57:02,054 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:57:02,054 This is a private variable:  kumar
+root  INFO 2022-10-15 14:57:02,054 This is a private variable:  singh
+root  INFO 2022-10-15 14:57:02,054 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-15 14:57:02,054 Here the age is protected: 32
+root  INFO 2022-10-15 14:57:02,054 Here The age is private 32
+root  INFO 2022-10-15 14:57:02,054 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-15 14:57:02,054 here i have coped and pasted the code from line number 22 to 38
+root  INFO 2022-10-15 14:57:02,054 9
+root  INFO 2022-10-15 14:57:02,054 <__main__.employee object at 0x0000021A53E9B460>
+root  INFO 2022-10-15 14:57:02,054 1991
+root  INFO 2022-10-15 14:57:02,054 1991
+root  INFO 2022-10-15 14:57:02,055 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:57:02,055 This is a private variable:  kumar
+root  INFO 2022-10-15 14:57:02,055 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:57:02,055 This is a private variable:  kumar
+root  INFO 2022-10-15 14:57:02,055 This is a private variable:  singh
+root  INFO 2022-10-15 14:57:26,274 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 14:57:26,274 <__main__.person object at 0x000001F4F740B460>
+root  INFO 2022-10-15 14:57:26,274 #________________inheritance_______________________
+root  INFO 2022-10-15 14:57:26,274 <__main__.employee object at 0x000001F4F740B3A0>
+root  INFO 2022-10-15 14:57:26,274 1991
+root  INFO 2022-10-15 14:57:26,274 1991
+root  INFO 2022-10-15 14:57:26,274 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:57:26,274 This is a private variable:  kumar
+root  INFO 2022-10-15 14:57:26,274 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:57:26,274 This is a private variable:  kumar
+root  INFO 2022-10-15 14:57:26,274 This is a private variable:  singh
+root  INFO 2022-10-15 14:57:26,274 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-15 14:57:26,275 Here the age is protected: 32
+root  INFO 2022-10-15 14:57:26,275 Here The age is private 32
+root  INFO 2022-10-15 14:57:26,275 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-15 14:57:26,275 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-15 14:57:26,275 9
+root  INFO 2022-10-15 14:57:26,275 <__main__.employee object at 0x000001F4F740B460>
+root  INFO 2022-10-15 14:57:26,275 1991
+root  INFO 2022-10-15 14:57:26,275 1991
+root  INFO 2022-10-15 14:57:26,275 This is a private variable: sudhanshu
+root  INFO 2022-10-15 14:57:26,275 This is a private variable:  kumar
+root  INFO 2022-10-15 14:57:26,275 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 14:57:26,275 This is a private variable:  kumar
+root  INFO 2022-10-15 14:57:26,275 This is a private variable:  singh
+root  INFO 2022-10-15 15:01:47,646 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 15:01:47,647 <__main__.person object at 0x000002700EF8B460>
+root  INFO 2022-10-15 15:01:47,647 #________________inheritance_______________________
+root  INFO 2022-10-15 15:01:47,647 <__main__.employee object at 0x000002700EF8B3A0>
+root  INFO 2022-10-15 15:01:47,647 1991
+root  INFO 2022-10-15 15:01:47,647 1991
+root  INFO 2022-10-15 15:01:47,647 This is a private variable: sudhanshu
+root  INFO 2022-10-15 15:01:47,647 This is a private variable:  kumar
+root  INFO 2022-10-15 15:01:47,647 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 15:01:47,647 This is a private variable:  kumar
+root  INFO 2022-10-15 15:01:47,647 This is a private variable:  singh
+root  INFO 2022-10-15 15:01:47,647 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-15 15:01:47,647 Here the age is protected: 32
+root  INFO 2022-10-15 15:01:47,647 Here The age is private 32
+root  INFO 2022-10-15 15:01:47,647 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-15 15:01:47,648 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-15 15:01:47,648 <__main__.employee object at 0x000002700EF8B460>
+root  INFO 2022-10-15 15:01:47,648 1991
+root  INFO 2022-10-15 15:01:47,648 1991
+root  INFO 2022-10-15 15:01:47,648 This is a private variable: sudhanshu
+root  INFO 2022-10-15 15:01:47,648 This is a private variable:  kumar
+root  INFO 2022-10-15 15:01:47,648 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 15:01:47,648 This is a private variable:  kumar
+root  INFO 2022-10-15 15:01:47,648 This is a private variable:  singh
+root  INFO 2022-10-15 15:01:47,648 9
+root  INFO 2022-10-15 15:01:47,648 31
+root  INFO 2022-10-15 15:51:01,362 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 15:51:01,371 <__main__.person object at 0x000001E3D89AB460>
+root  INFO 2022-10-15 15:51:01,371 #________________inheritance_______________________
+root  INFO 2022-10-15 15:51:01,371 <__main__.employee object at 0x000001E3D89AB3A0>
+root  INFO 2022-10-15 15:51:01,371 1991
+root  INFO 2022-10-15 15:51:01,371 1991
+root  INFO 2022-10-15 15:51:01,371 This is a private variable: sudhanshu
+root  INFO 2022-10-15 15:51:01,372 This is a private variable:  kumar
+root  INFO 2022-10-15 15:51:01,372 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 15:51:01,372 This is a private variable:  kumar
+root  INFO 2022-10-15 15:51:01,372 This is a private variable:  singh
+root  INFO 2022-10-15 15:51:01,372 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-15 15:51:01,372 Here the age is protected: 32
+root  INFO 2022-10-15 15:51:01,372 Here The age is private 32
+root  INFO 2022-10-15 15:51:01,372 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-15 15:51:01,372 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-15 15:51:01,373 <__main__.employee object at 0x000001E3D89AB460>
+root  INFO 2022-10-15 15:51:01,373 1991
+root  INFO 2022-10-15 15:51:01,373 1991
+root  INFO 2022-10-15 15:51:01,373 This is a private variable: sudhanshu
+root  INFO 2022-10-15 15:51:01,373 This is a private variable:  kumar
+root  INFO 2022-10-15 15:51:01,373 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 15:51:01,373 This is a private variable:  kumar
+root  INFO 2022-10-15 15:51:01,373 This is a private variable:  singh
+root  INFO 2022-10-15 15:51:01,373 9
+root  INFO 2022-10-15 15:51:01,374 31
+root  INFO 2022-10-15 15:51:39,225 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 15:51:39,225 <__main__.person object at 0x000001FA9FB0B460>
+root  INFO 2022-10-15 15:51:39,225 #________________inheritance_______________________
+root  INFO 2022-10-15 15:51:39,225 <__main__.employee object at 0x000001FA9FB0B3A0>
+root  INFO 2022-10-15 15:51:39,225 1991
+root  INFO 2022-10-15 15:51:39,225 1991
+root  INFO 2022-10-15 15:51:39,225 This is a private variable: sudhanshu
+root  INFO 2022-10-15 15:51:39,226 This is a private variable:  kumar
+root  INFO 2022-10-15 15:51:39,226 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 15:51:39,226 This is a private variable:  kumar
+root  INFO 2022-10-15 15:51:39,226 This is a private variable:  singh
+root  INFO 2022-10-15 15:51:39,226 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-15 15:51:39,226 Here the age is protected: 32
+root  INFO 2022-10-15 15:51:39,226 Here The age is private 32
+root  INFO 2022-10-15 15:51:39,226 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-15 15:51:39,226 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-15 15:51:39,226 <__main__.employee object at 0x000001FA9FB0B460>
+root  INFO 2022-10-15 15:51:39,226 1991
+root  INFO 2022-10-15 15:51:39,226 1991
+root  INFO 2022-10-15 15:51:39,226 This is a private variable: sudhanshu
+root  INFO 2022-10-15 15:51:39,226 This is a private variable:  kumar
+root  INFO 2022-10-15 15:51:39,226 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 15:51:39,226 This is a private variable:  kumar
+root  INFO 2022-10-15 15:51:39,226 This is a private variable:  singh
+root  INFO 2022-10-15 15:51:39,227 9
+root  INFO 2022-10-15 15:51:39,227 31
+root  INFO 2022-10-15 15:53:30,110 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-15 15:53:30,110 <__main__.person object at 0x000001AD4D1EB460>
+root  INFO 2022-10-15 15:53:30,110 #________________inheritance_______________________
+root  INFO 2022-10-15 15:53:30,110 <__main__.employee object at 0x000001AD4D1EB3A0>
+root  INFO 2022-10-15 15:53:30,110 1991
+root  INFO 2022-10-15 15:53:30,110 1991
+root  INFO 2022-10-15 15:53:30,110 This is a private variable: sudhanshu
+root  INFO 2022-10-15 15:53:30,110 This is a private variable:  kumar
+root  INFO 2022-10-15 15:53:30,110 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 15:53:30,110 This is a private variable:  kumar
+root  INFO 2022-10-15 15:53:30,110 This is a private variable:  singh
+root  INFO 2022-10-15 15:53:30,110 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-15 15:53:30,110 Here the age is protected: 32
+root  INFO 2022-10-15 15:53:30,111 Here The age is private 32
+root  INFO 2022-10-15 15:53:30,111 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-15 15:53:30,111 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-15 15:53:30,111 <__main__.employee object at 0x000001AD4D1EB460>
+root  INFO 2022-10-15 15:53:30,111 1991
+root  INFO 2022-10-15 15:53:30,111 1991
+root  INFO 2022-10-15 15:53:30,111 This is a private variable: sudhanshu
+root  INFO 2022-10-15 15:53:30,111 This is a private variable:  kumar
+root  INFO 2022-10-15 15:53:30,111 This is a private variable:  sudhanshu
+root  INFO 2022-10-15 15:53:30,111 This is a private variable:  kumar
+root  INFO 2022-10-15 15:53:30,111 This is a private variable:  singh
+root  INFO 2022-10-15 15:53:30,111 9
+root  INFO 2022-10-15 15:53:30,111 31
+root  INFO 2022-10-17 10:25:57,417 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-17 10:25:57,463 <test.person object at 0x0000025A9C567CD0>
+root  INFO 2022-10-17 10:25:57,463 #________________inheritance_______________________
+root  INFO 2022-10-17 10:25:57,463 <test.employee object at 0x0000025A9C567C10>
+root  INFO 2022-10-17 10:25:57,463 1991
+root  INFO 2022-10-17 10:25:57,463 1991
+root  INFO 2022-10-17 10:25:57,463 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:25:57,463 This is a private variable:  kumar
+root  INFO 2022-10-17 10:25:57,463 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:25:57,463 This is a private variable:  kumar
+root  INFO 2022-10-17 10:25:57,463 This is a private variable:  singh
+root  INFO 2022-10-17 10:25:57,463 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-17 10:25:57,463 Here the age is protected: 32
+root  INFO 2022-10-17 10:25:57,464 Here The age is private 32
+root  INFO 2022-10-17 10:25:57,464 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-17 10:25:57,464 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-17 10:25:57,464 <test.employee object at 0x0000025A9C567CD0>
+root  INFO 2022-10-17 10:25:57,464 1991
+root  INFO 2022-10-17 10:25:57,464 1991
+root  INFO 2022-10-17 10:25:57,464 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:25:57,464 This is a private variable:  kumar
+root  INFO 2022-10-17 10:25:57,464 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:25:57,464 This is a private variable:  kumar
+root  INFO 2022-10-17 10:25:57,464 This is a private variable:  singh
+root  INFO 2022-10-17 10:25:57,464 9
+root  INFO 2022-10-17 10:25:57,464 31
+root  INFO 2022-10-17 10:27:05,778 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-17 10:27:05,778 <test.person object at 0x0000029EFA386EC0>
+root  INFO 2022-10-17 10:27:05,778 #________________inheritance_______________________
+root  INFO 2022-10-17 10:27:05,778 <test.employee object at 0x0000029EFA386E00>
+root  INFO 2022-10-17 10:27:05,778 1991
+root  INFO 2022-10-17 10:27:05,778 1991
+root  INFO 2022-10-17 10:27:05,778 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:27:05,779 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:05,779 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:27:05,779 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:05,779 This is a private variable:  singh
+root  INFO 2022-10-17 10:27:05,779 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-17 10:27:05,779 Here the age is protected: 32
+root  INFO 2022-10-17 10:27:05,779 Here The age is private 32
+root  INFO 2022-10-17 10:27:05,779 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-17 10:27:05,779 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-17 10:27:05,779 <test.employee object at 0x0000029EFA386EC0>
+root  INFO 2022-10-17 10:27:05,779 1991
+root  INFO 2022-10-17 10:27:05,779 1991
+root  INFO 2022-10-17 10:27:05,779 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:27:05,779 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:05,779 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:27:05,779 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:05,779 This is a private variable:  singh
+root  INFO 2022-10-17 10:27:05,779 9
+root  INFO 2022-10-17 10:27:05,780 31
+root  INFO 2022-10-17 10:27:22,723 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-17 10:27:22,723 <test.person object at 0x00000172344D6EC0>
+root  INFO 2022-10-17 10:27:22,724 #________________inheritance_______________________
+root  INFO 2022-10-17 10:27:22,724 <test.employee object at 0x00000172344D6E00>
+root  INFO 2022-10-17 10:27:22,724 1991
+root  INFO 2022-10-17 10:27:22,724 1991
+root  INFO 2022-10-17 10:27:22,724 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:27:22,724 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:22,724 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:27:22,724 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:22,724 This is a private variable:  singh
+root  INFO 2022-10-17 10:27:22,724 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-17 10:27:22,724 Here the age is protected: 32
+root  INFO 2022-10-17 10:27:22,724 Here The age is private 32
+root  INFO 2022-10-17 10:27:22,724 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-17 10:27:22,724 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-17 10:27:22,724 <test.employee object at 0x00000172344D6EC0>
+root  INFO 2022-10-17 10:27:22,724 1991
+root  INFO 2022-10-17 10:27:22,724 1991
+root  INFO 2022-10-17 10:27:22,725 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:27:22,725 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:22,725 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:27:22,725 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:22,725 This is a private variable:  singh
+root  INFO 2022-10-17 10:27:22,725 9
+root  INFO 2022-10-17 10:27:22,725 31
+root  INFO 2022-10-17 10:27:54,541 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-17 10:27:54,541 <test.person object at 0x000001C879976EC0>
+root  INFO 2022-10-17 10:27:54,541 #________________inheritance_______________________
+root  INFO 2022-10-17 10:27:54,541 <test.employee object at 0x000001C879976E00>
+root  INFO 2022-10-17 10:27:54,541 1991
+root  INFO 2022-10-17 10:27:54,542 1991
+root  INFO 2022-10-17 10:27:54,542 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:27:54,542 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:54,542 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:27:54,542 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:54,542 This is a private variable:  singh
+root  INFO 2022-10-17 10:27:54,542 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-17 10:27:54,542 Here the age is protected: 32
+root  INFO 2022-10-17 10:27:54,542 Here The age is private 32
+root  INFO 2022-10-17 10:27:54,543 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-17 10:27:54,543 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-17 10:27:54,543 <test.employee object at 0x000001C879976EC0>
+root  INFO 2022-10-17 10:27:54,543 1991
+root  INFO 2022-10-17 10:27:54,543 1991
+root  INFO 2022-10-17 10:27:54,543 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:27:54,543 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:54,543 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:27:54,543 This is a private variable:  kumar
+root  INFO 2022-10-17 10:27:54,544 This is a private variable:  singh
+root  INFO 2022-10-17 10:27:54,544 9
+root  INFO 2022-10-17 10:27:54,544 31
+root  INFO 2022-10-17 10:28:06,507 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-17 10:28:06,507 <test.person object at 0x00000236C5316EC0>
+root  INFO 2022-10-17 10:28:06,507 #________________inheritance_______________________
+root  INFO 2022-10-17 10:28:06,507 <test.employee object at 0x00000236C5316E00>
+root  INFO 2022-10-17 10:28:06,507 1991
+root  INFO 2022-10-17 10:28:06,507 1991
+root  INFO 2022-10-17 10:28:06,507 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:28:06,507 This is a private variable:  kumar
+root  INFO 2022-10-17 10:28:06,508 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:28:06,508 This is a private variable:  kumar
+root  INFO 2022-10-17 10:28:06,508 This is a private variable:  singh
+root  INFO 2022-10-17 10:28:06,508 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-17 10:28:06,508 Here the age is protected: 32
+root  INFO 2022-10-17 10:28:06,508 Here The age is private 32
+root  INFO 2022-10-17 10:28:06,508 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-17 10:28:06,508 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-17 10:28:06,508 <test.employee object at 0x00000236C5316EC0>
+root  INFO 2022-10-17 10:28:06,508 1991
+root  INFO 2022-10-17 10:28:06,508 1991
+root  INFO 2022-10-17 10:28:06,508 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:28:06,508 This is a private variable:  kumar
+root  INFO 2022-10-17 10:28:06,508 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:28:06,508 This is a private variable:  kumar
+root  INFO 2022-10-17 10:28:06,508 This is a private variable:  singh
+root  INFO 2022-10-17 10:28:06,508 9
+root  INFO 2022-10-17 10:28:06,508 31
+root  INFO 2022-10-17 10:28:12,390 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-17 10:28:12,390 <test.person object at 0x000002BEEDE26EC0>
+root  INFO 2022-10-17 10:28:12,390 #________________inheritance_______________________
+root  INFO 2022-10-17 10:28:12,390 <test.employee object at 0x000002BEEDE26E00>
+root  INFO 2022-10-17 10:28:12,390 1991
+root  INFO 2022-10-17 10:28:12,390 1991
+root  INFO 2022-10-17 10:28:12,390 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:28:12,391 This is a private variable:  kumar
+root  INFO 2022-10-17 10:28:12,391 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:28:12,391 This is a private variable:  kumar
+root  INFO 2022-10-17 10:28:12,391 This is a private variable:  singh
+root  INFO 2022-10-17 10:28:12,391 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-17 10:28:12,391 Here the age is protected: 32
+root  INFO 2022-10-17 10:28:12,391 Here The age is private 32
+root  INFO 2022-10-17 10:28:12,391 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-17 10:28:12,391 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-17 10:28:12,391 <test.employee object at 0x000002BEEDE26EC0>
+root  INFO 2022-10-17 10:28:12,391 1991
+root  INFO 2022-10-17 10:28:12,391 1991
+root  INFO 2022-10-17 10:28:12,391 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:28:12,391 This is a private variable:  kumar
+root  INFO 2022-10-17 10:28:12,391 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:28:12,391 This is a private variable:  kumar
+root  INFO 2022-10-17 10:28:12,391 This is a private variable:  singh
+root  INFO 2022-10-17 10:28:12,391 9
+root  INFO 2022-10-17 10:28:12,392 31
+root  INFO 2022-10-17 10:29:11,249 ________________with out using __init__ we can able to create a variable________________________________
+root  INFO 2022-10-17 10:29:11,249 <test.person object at 0x000002CC61596EC0>
+root  INFO 2022-10-17 10:29:11,249 #________________inheritance_______________________
+root  INFO 2022-10-17 10:29:11,249 <test.employee object at 0x000002CC61596E00>
+root  INFO 2022-10-17 10:29:11,249 1991
+root  INFO 2022-10-17 10:29:11,250 1991
+root  INFO 2022-10-17 10:29:11,250 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:29:11,250 This is a private variable:  kumar
+root  INFO 2022-10-17 10:29:11,250 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:29:11,250 This is a private variable:  kumar
+root  INFO 2022-10-17 10:29:11,250 This is a private variable:  singh
+root  INFO 2022-10-17 10:29:11,250 @@---------------------------Here we are using functions as a object notations---------------------------------------------------@@
+root  INFO 2022-10-17 10:29:11,250 Here the age is protected: 32
+root  INFO 2022-10-17 10:29:11,250 Here The age is private 32
+root  INFO 2022-10-17 10:29:11,250 ___________________________________________________________________________________________________________________
+root  INFO 2022-10-17 10:29:11,250 @----------here i have coped and pasted the code from line number 22 to 38--------------------@
+root  INFO 2022-10-17 10:29:11,251 <test.employee object at 0x000002CC61596EC0>
+root  INFO 2022-10-17 10:29:11,251 1991
+root  INFO 2022-10-17 10:29:11,251 1991
+root  INFO 2022-10-17 10:29:11,251 This is a private variable: sudhanshu
+root  INFO 2022-10-17 10:29:11,251 This is a private variable:  kumar
+root  INFO 2022-10-17 10:29:11,251 This is a private variable:  sudhanshu
+root  INFO 2022-10-17 10:29:11,251 This is a private variable:  kumar
+root  INFO 2022-10-17 10:29:11,251 This is a private variable:  singh
+root  INFO 2022-10-17 10:29:11,251 9
+root  INFO 2022-10-17 10:29:11,251 31

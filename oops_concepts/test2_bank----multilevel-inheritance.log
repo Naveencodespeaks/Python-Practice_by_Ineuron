@@ -1,0 +1,32 @@
+INFO root 2022-10-17 13:27:42,500, <__main__.icici object at 0x00000187FB0A71C0>
+INFO root 2022-10-17 13:28:57,656, <__main__.icici object at 0x00000242D75A71F0>
+INFO root 2022-10-17 13:28:57,656, This will show you all the transaction happend to icici throught hdfc
+INFO root 2022-10-17 13:28:57,657, None
+INFO root 2022-10-17 13:28:57,657, Total  transaction value
+INFO root 2022-10-17 13:28:57,657, None
+INFO root 2022-10-17 13:28:57,657, This will showing  you  your account open status
+INFO root 2022-10-17 13:28:57,657, None
+INFO root 2022-10-17 13:28:57,657, This will show your deposited amount
+INFO root 2022-10-17 13:28:57,657, None
+INFO root 2022-10-17 13:29:28,921, <__main__.icici object at 0x0000019AB43371F0>
+INFO root 2022-10-17 13:29:28,921, This will show you all the transaction happend to icici throught hdfc
+INFO root 2022-10-17 13:29:28,921, Total  transaction value
+INFO root 2022-10-17 13:29:28,921, None
+INFO root 2022-10-17 13:29:28,921, This will showing  you  your account open status
+INFO root 2022-10-17 13:29:28,922, None
+INFO root 2022-10-17 13:29:28,922, This will show your deposited amount
+INFO root 2022-10-17 13:29:28,922, None
+INFO root 2022-10-17 13:29:45,418, <__main__.icici object at 0x000002C329E071F0>
+INFO root 2022-10-17 13:29:45,419, This will show you all the transaction happend to icici throught hdfc
+INFO root 2022-10-17 13:29:45,419, Total  transaction value
+INFO root 2022-10-17 13:29:45,419, This will showing  you  your account open status
+INFO root 2022-10-17 13:29:45,419, None
+INFO root 2022-10-17 13:29:45,419, This will show your deposited amount
+INFO root 2022-10-17 13:29:45,420, None
+INFO root 2022-10-17 13:32:06,517, <__main__.icici object at 0x000001F44BC071F0>
+INFO root 2022-10-17 13:32:06,517, This will show you all the transaction happend to icici throught hdfc
+INFO root 2022-10-17 13:32:06,517, Total  transaction value
+INFO root 2022-10-17 13:32:06,517, This will showing  you  your account open status
+INFO root 2022-10-17 13:32:06,517, None
+INFO root 2022-10-17 13:32:06,517, This will show your deposited amount
+INFO root 2022-10-17 13:32:06,517, None

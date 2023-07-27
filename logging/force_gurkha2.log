@@ -1,0 +1,61 @@
+root 2022-10-13 11:41:52,388 INFO This number entered by user is 3 and 6
+root 2022-10-13 11:42:19,774 INFO This number entered by user is 3 and 6
+root 2022-10-13 11:44:27,685 INFO This number entered by user is 3 and 6
+root 2022-10-13 11:46:51,768 INFO This number entered by user is 3 and 6
+root 2022-10-13 11:46:51,768 INFO We are into function
+root 2022-10-13 11:46:51,768 ERROR module 'logging' has no attribute 'ino'
+Traceback (most recent call last):
+  File "C:\Users\SVKUSER\python_total_basics\logg2_method.py", line 9, in devide
+    logging.ino("we have completed a division operation")
+AttributeError: module 'logging' has no attribute 'ino'
+root 2022-10-13 11:47:27,258 INFO This number entered by user is 3 and 6
+root 2022-10-13 11:47:27,258 INFO We are into function
+root 2022-10-13 11:47:27,258 INFO we have completed a division operation
+root This number entered by user is 3 and 6 2022-10-13 11:48:43,020 INFO
+root We are into function 2022-10-13 11:48:43,020 INFO
+root we have completed a division operation 2022-10-13 11:48:43,020 INFO
+2022-10-13 11:49:33,684 INFO root This number entered by user is 3 and 6 
+2022-10-13 11:49:33,685 INFO root We are into function 
+2022-10-13 11:49:33,685 INFO root we have completed a division operation 
+ INFO 2022-10-13 11:50:24,248 root This number entered by user is 3 and 6 
+ INFO 2022-10-13 11:50:24,248 root We are into function 
+ INFO 2022-10-13 11:50:24,248 root we have completed a division operation 
+INFO This number entered by user is 3 and 6 2022-10-13 11:51:01,864 root
+INFO We are into function 2022-10-13 11:51:01,865 root
+INFO we have completed a division operation 2022-10-13 11:51:01,865 root
+INFO root 2022-10-13 11:51:27,766  This number entered by user is 3 and 6
+INFO root 2022-10-13 11:51:27,766  We are into function
+INFO root 2022-10-13 11:51:27,766  we have completed a division operation
+INFO root 2022-10-13 11:52:05,263  This number entered by user is 3 and 6
+INFO root 2022-10-13 11:52:05,263  We are into function
+INFO root 2022-10-13 11:52:05,264  we have completed a division operation
+INFO root 2022-10-13 11:52:18,804  This number entered by user is 3 and 0
+INFO root 2022-10-13 11:52:18,804  We are into function
+ERROR root 2022-10-13 11:52:18,805  division by zero
+Traceback (most recent call last):
+  File "C:\Users\SVKUSER\python_total_basics\logg2_method.py", line 8, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO root 2022-10-13 11:56:06,457  This number entered by user is 3 and 0
+INFO root 2022-10-13 11:56:06,457  We are into function
+ERROR root 2022-10-13 11:56:06,458  division by zero
+Traceback (most recent call last):
+  File "C:\Users\SVKUSER\python_total_basics\logg2_method.py", line 8, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO root 2022-10-13 11:56:11,285  This number entered by user is 3 and 7
+INFO root 2022-10-13 11:56:11,286  We are into function
+INFO root 2022-10-13 11:56:11,286  we have completed a division operation
+INFO root 2022-10-13 11:56:11,286  result of code is  0.42857142857142855
+INFO root 2022-10-13 12:06:34,165  This number entered by user is 3 and 7
+INFO root 2022-10-13 12:06:34,165  We are into function
+INFO root 2022-10-13 12:06:34,166  we have completed a division operation
+INFO root 2022-10-13 12:06:34,166  result of code is  0.42857142857142855
+INFO root 2022-10-13 12:06:44,772  This number entered by user is 3 and 7
+INFO root 2022-10-13 12:06:44,773  We are into function
+INFO root 2022-10-13 12:06:44,773  we have completed a division operation
+INFO root 2022-10-13 12:06:44,773  result of code is  0.42857142857142855
+INFO root 2022-10-13 12:06:53,212  This number entered by user is 3 and 7
+INFO root 2022-10-13 12:06:53,212  We are into function
+INFO root 2022-10-13 12:06:53,212  we have completed a division operation
+INFO root 2022-10-13 12:06:53,213  result of code is  0.42857142857142855
